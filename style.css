@@ -1,0 +1,35 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 50px;
+    background-color: teal
+}
+
+.container{
+    background: rgb(185, 237, 255);
+    padding: 50px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px;
+    display: inline-block;
+}
+
+input{
+    width: 80%;
+    padding: 10px;
+    margin: 10 0px;
+    text-align: center;
+    font-size: 16px;
+}
+
+button{
+    background: teal;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover{
+    background: palegreen;
+}
