@@ -12,7 +12,7 @@ A simple password generator built with HTML, CSS, and JavaScript.
 3. Copy the generated password and use it.
 
 ## Preview
-
+![Preview of Project](image.png)
 
 ## Technlogies Used
 - HTML
